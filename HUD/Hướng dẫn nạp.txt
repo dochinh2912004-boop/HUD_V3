@@ -1,0 +1,6 @@
+✓	File	                Offset
+
+✓	bootloader.bin	        0x0 
+✓	partitions.bin	        0x8000
+✓	firmware.bin	        0x10000
+✓	device_XXXX_nvs.bin	    0x9000
